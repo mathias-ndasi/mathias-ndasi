@@ -29,3 +29,12 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mathias-ndasi&show_icons=true&locale=en" alt="mathias-ndasi" /></p>  
   
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mathias-ndasi&" alt="mathias-ndasi" /></p>
+
+<!-- START_SECTION:activity--->
+<details>
+  <summary>:zap: Recent GitHub Activity</summary>
+  
+<!--START_SECTION:activity-->
+
+
+</details>
