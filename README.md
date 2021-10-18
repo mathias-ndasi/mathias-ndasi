@@ -1,4 +1,4 @@
-### Hi there I am call Mathias Ndasi 👋
+### Hi there my name is Mathias Ndasi 👋
 
 <!--
 **mathias-ndasi/mathias-ndasi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
