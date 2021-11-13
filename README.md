@@ -8,7 +8,7 @@
   
 - 🔭 I’m currently working on [univers](https://univers.appstechlab.com/)  
   
-- 🌱 I’m currently learning **Fundamentals of ML**  
+- 🌱 I’m currently learning **Fundamentals of ML, NestJS, and SailsJS**  
   
 - 💬 Ask me about **python, javascript, NodeJs, NLP, ML, DL**  
   
