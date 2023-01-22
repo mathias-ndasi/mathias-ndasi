@@ -1,5 +1,5 @@
 <p>Hi 👋</p>  
-<p>I'm Mathias Ndasi, a software engineer whose dirve and passion is converting ideas to tailored solutions serving a need. You can hook me up for stuffs on python or Node.js</p>    
+<p>I'm Mathias Ndasi, a software engineer whose drive and passion are converting ideas to tailored solutions serving a need. You can hook me up for stuff on python or Node.js</p>    
   
 - 🌱 I’m looking to collaborate on any cool project  
   
